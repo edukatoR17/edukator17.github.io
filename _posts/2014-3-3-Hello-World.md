@@ -2,6 +2,7 @@
 layout: post
 title: Será que é só imaginação?
 ---
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 
 Com a variação cambial das últimas semanas, as intervenções do Banco Central do Brasil através dos swaps cambiais voltaram para a pauta das discussões, com o BCB ofertando mais de 30 bilhões de dólares nestes instrumentos. O objetivo deste texto é desvendar o mecanismo de transmissão destes instrumentos para o espectro das taxa de câmbio BRL/USD.
 
